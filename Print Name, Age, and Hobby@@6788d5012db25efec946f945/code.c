@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-    char[100] 'n','h';
+    char n[100],h[100];
     int a;
     scanf("%s %d %s",&n,&a,&h);
     printf("Name: %s\nAge: %d\nHobby: %s",n,a,h);
