@@ -15,7 +15,7 @@ for(i=2;i<=n;i++)
     break;
  }
 }
- if(c=0)
+ if(c==0)
  printf("Not Prime");
  else
  printf("Prime");
