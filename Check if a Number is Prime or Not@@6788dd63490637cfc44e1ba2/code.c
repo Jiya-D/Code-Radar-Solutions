@@ -5,7 +5,7 @@ int main()
  scanf("%d",&n);
 
 if(i<2)
-printf("Prime");
+c=1;
 else{
 
 
