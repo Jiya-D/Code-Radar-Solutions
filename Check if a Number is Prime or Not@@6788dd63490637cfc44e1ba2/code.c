@@ -4,7 +4,7 @@ int main()
  int n,c=1,i;
  scanf("%d",&n);
 
-if(i<2)
+if(n<2)
 c=1;
 else
 {
