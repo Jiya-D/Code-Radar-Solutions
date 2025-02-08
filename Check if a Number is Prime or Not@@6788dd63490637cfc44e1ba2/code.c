@@ -11,9 +11,9 @@ else
 for(i=2;i<n;i++)
  {
     if(n%i==0)
-    c=0;
+    {c=0;
     
-    break;
+    break;}
  }
 }
  if(c==0)
