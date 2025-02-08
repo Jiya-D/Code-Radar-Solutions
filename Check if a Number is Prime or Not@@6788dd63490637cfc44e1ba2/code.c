@@ -6,10 +6,9 @@ int main()
 
 if(i<2)
 c=1;
-else{
-
-
- for(i>=2;i<n;i++)
+else
+{
+for(i=2;i<=n;i++)
  {
     if(n%i==0)
     c=0;
